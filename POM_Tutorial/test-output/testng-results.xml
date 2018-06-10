@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9852" started-at="2017-11-11T10:43:36Z" finished-at="2017-11-11T10:43:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9852" started-at="2017-11-11T10:43:36Z" finished-at="2017-11-11T10:43:46Z">
+      <class name="testSuite.login_verification">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testSuite.login_verification@146ba0ac]" name="beforeTest" is-config="true" duration-ms="6996" started-at="2017-11-11T16:13:36Z" finished-at="2017-11-11T16:13:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC01_login_verification()[pri:0, instance:testSuite.login_verification@146ba0ac]" name="TC01_login_verification" duration-ms="2837" started-at="2017-11-11T16:13:43Z" finished-at="2017-11-11T16:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_login_verification -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testSuite.login_verification@146ba0ac]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-11-11T16:13:46Z" finished-at="2017-11-11T16:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testSuite.login_verification -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
