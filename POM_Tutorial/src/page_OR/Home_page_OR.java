@@ -13,7 +13,7 @@ public class Home_page_OR {
 		this.driver=driver1;
 	}
 	public boolean checkLogin(){
-		return driver.findElement(newcustomerlink).isDisplayed();//commit
+		return driver.findElement(newcustomerlink).isDisplayed();
 	}
 	
 
